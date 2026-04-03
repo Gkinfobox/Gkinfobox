@@ -47,6 +47,6 @@ REST API powered system — Spring Boot · Java
 - Java Full Stack opportunities
 
 ## Connect
-- LinkedIn: linkedin.com/in/ganeshkumarsakthivel
+- LinkedIn: [linkedin.com/in/ganeshkumarsakthivel](https://www.linkedin.com/in/ganeshkumarsakthivel/)
 - Portfolio: [gkumar-portfolio.netlify.app](https://gkumar-portfolio.netlify.app/)
 - Email: gkumardetails@gmail.com
